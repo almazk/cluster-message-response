@@ -14,5 +14,9 @@
     "worker"
   ],
   "author": "Almaz Kazakov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almazk/cluster-message-response"
+  }
 }
