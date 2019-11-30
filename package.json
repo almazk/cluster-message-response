@@ -1,6 +1,6 @@
 {
   "name": "cluster-message-response",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Node module to send messages to master from worker in cluster. Worker may get response from master.",
   "main": "index.js",
   "scripts": {
